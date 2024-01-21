@@ -1,0 +1,22 @@
+body{
+    font-family:serif;
+    background-color: #84a98c;
+    
+}
+.navbar{
+    background-color:#446461;
+}
+header{
+    background-color:  #52796f;
+}.card{
+    background-color:#52796f;
+}
+a{
+    text-decoration: none;
+}
+.ft{
+    background-color:#446461;
+}
+footer.important{
+    background-color: #446461;
+}
